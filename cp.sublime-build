@@ -1,0 +1,3 @@
+{
+	"shell_cmd": "astyle --style=java --suffix=none --max-code-length=80 --indent=tab=4 --pad-oper --pad-comma --pad-header --pad-first-paren-out --unpad-paren --delete-empty-lines --break-closing-braces --break-elseifs \"${file}\" && g++ -std=c++20 -Wall -Wextra -O2 -pthread -H -I . \"${file}\" -o runfile  && gtimeout 1.5s /usr/bin/time ./runfile <input.txt> output.txt && rm runfile"
+}

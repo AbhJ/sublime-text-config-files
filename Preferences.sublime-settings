@@ -1,0 +1,42 @@
+{
+	"theme": "Adaptive.sublime-theme",
+"always_show_minimap_viewport": true,
+"animation_enabled": false,
+"auto_complete_use_index": false,
+"bold_folder_labels": true,
+"caret_style": "phase",
+"color_scheme": "Packages/Color Scheme - Default/Mariana.sublime-color-scheme",
+"draw_white_space": "none",
+"editor.fontLigatures": true,
+// "font_face": "Inconsolata",
+// "font_face": "Fira Code",
+// "line_padding_bottom": -1,
+    // "line_padding_top": -1,
+// "highlight_line": true,
+"ignored_packages":
+[
+"Vintage",
+	],
+"fade_fold_buttons": false,
+"match_selection": true,
+"overlay_scroll_bars": "enabled",
+"scroll_past_end": false,
+"show_definitions": true,
+"show_tab_close_buttons": false,
+"tab_size": 4,
+/*"theme": "Adaptive.sublime-theme",*/
+"translate_tabs_to_spaces": false,
+"hide_tab_scrolling_buttons": true,
+// "show_tab_close_buttons": false,
+// "index_files": false,
+// "show_sidebar_button": false,
+"enable_tab_scrolling": false,
+"preview_on_click": false,
+"hardware_acceleration": "opengl",
+"added_words":
+[
+"Abhijay",
+"Mitra",
+	],
+	"index_files": true,
+}
